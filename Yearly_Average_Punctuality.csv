@@ -1,0 +1,191 @@
+Country,Year,Departure Punctuality %,Change Since 2022,ISO3,Col,Row
+Albania,2022,68.63,0.0,ALB,4,9
+Albania,2023,72.62,3.99,ALB,4,9
+Albania,2024,65.76,-2.87,ALB,4,9
+Albania,2025,70.65,2.02,ALB,4,9
+Albania,2026,70.59,1.96,ALB,4,9
+Austria,2022,76.84,0.0,AUT,4,6
+Austria,2023,75.4,-1.44,AUT,4,6
+Austria,2024,73.83,-3.01,AUT,4,6
+Austria,2025,79.0,2.16,AUT,4,6
+Austria,2026,79.64,2.8,AUT,4,6
+Belgium,2022,67.82,0.0,BEL,3,5
+Belgium,2023,67.59,-0.23,BEL,3,5
+Belgium,2024,69.63,1.81,BEL,3,5
+Belgium,2025,70.21,2.39,BEL,3,5
+Belgium,2026,72.87,5.05,BEL,3,5
+Bosnia And Herzegovina,2022,66.73,0.0,BIH,4,8
+Bosnia And Herzegovina,2023,66.87,0.14,BIH,4,8
+Bosnia And Herzegovina,2024,68.34,1.61,BIH,4,8
+Bosnia And Herzegovina,2025,73.09,6.36,BIH,4,8
+Bosnia And Herzegovina,2026,76.98,10.25,BIH,4,8
+Bulgaria,2022,67.75,0.0,BGR,7,7
+Bulgaria,2023,69.02,1.27,BGR,7,7
+Bulgaria,2024,68.75,1.0,BGR,7,7
+Bulgaria,2025,74.68,6.93,BGR,7,7
+Bulgaria,2026,78.4,10.65,BGR,7,7
+Croatia,2022,75.84,0.0,HRV,5,7
+Croatia,2023,76.44,0.6,HRV,5,7
+Croatia,2024,72.67,-3.17,HRV,5,7
+Croatia,2025,77.86,2.02,HRV,5,7
+Croatia,2026,79.53,3.69,HRV,5,7
+Cyprus,2022,68.33,0.0,CYP,7,10
+Cyprus,2023,69.24,0.91,CYP,7,10
+Cyprus,2024,64.58,-3.75,CYP,7,10
+Cyprus,2025,70.03,1.7,CYP,7,10
+Cyprus,2026,67.3,-1.03,CYP,7,10
+Czech Republic,2022,69.07,0.0,CZE,4,5
+Czech Republic,2023,69.41,0.34,CZE,4,5
+Czech Republic,2024,66.96,-2.11,CZE,4,5
+Czech Republic,2025,72.62,3.55,CZE,4,5
+Czech Republic,2026,75.86,6.79,CZE,4,5
+Denmark,2022,74.42,0.0,DNK,4,3
+Denmark,2023,71.38,-3.04,DNK,4,3
+Denmark,2024,78.1,3.68,DNK,4,3
+Denmark,2025,82.31,7.89,DNK,4,3
+Denmark,2026,82.38,7.96,DNK,4,3
+Estonia,2022,79.58,0.0,EST,6,2
+Estonia,2023,81.22,1.64,EST,6,2
+Estonia,2024,81.48,1.9,EST,6,2
+Estonia,2025,84.06,4.48,EST,6,2
+Estonia,2026,84.94,5.36,EST,6,2
+Finland,2022,77.47,0.0,FIN,6,1
+Finland,2023,77.87,0.4,FIN,6,1
+Finland,2024,72.86,-4.61,FIN,6,1
+Finland,2025,78.11,0.64,FIN,6,1
+Finland,2026,78.46,0.99,FIN,6,1
+France,2022,65.12,0.0,FRA,2,6
+France,2023,60.97,-4.15,FRA,2,6
+France,2024,64.55,-0.57,FRA,2,6
+France,2025,66.11,0.99,FRA,2,6
+France,2026,69.34,4.22,FRA,2,6
+Germany,2022,64.04,0.0,DEU,4,4
+Germany,2023,62.98,-1.06,DEU,4,4
+Germany,2024,64.65,0.61,DEU,4,4
+Germany,2025,71.31,7.27,DEU,4,4
+Germany,2026,72.58,8.54,DEU,4,4
+Greece,2022,75.29,0.0,GRC,5,9
+Greece,2023,73.11,-2.18,GRC,5,9
+Greece,2024,72.61,-2.68,GRC,5,9
+Greece,2025,69.5,-5.79,GRC,5,9
+Greece,2026,67.95,-7.34,GRC,5,9
+Hungary,2022,67.63,0.0,HUN,5,6
+Hungary,2023,70.21,2.58,HUN,5,6
+Hungary,2024,65.66,-1.97,HUN,5,6
+Hungary,2025,73.34,5.71,HUN,5,6
+Hungary,2026,75.36,7.73,HUN,5,6
+Iceland,2022,65.12,0.0,ISL,1,1
+Iceland,2023,66.31,1.19,ISL,1,1
+Iceland,2024,72.32,7.2,ISL,1,1
+Iceland,2025,75.05,9.93,ISL,1,1
+Iceland,2026,73.52,8.4,ISL,1,1
+Ireland,2022,66.72,0.0,IRL,1,3
+Ireland,2023,70.03,3.31,IRL,1,3
+Ireland,2024,75.26,8.54,IRL,1,3
+Ireland,2025,77.76,11.04,IRL,1,3
+Ireland,2026,76.82,10.1,IRL,1,3
+Italy,2022,69.01,0.0,ITA,3,8
+Italy,2023,65.98,-3.03,ITA,3,8
+Italy,2024,65.27,-3.74,ITA,3,8
+Italy,2025,70.82,1.81,ITA,3,8
+Italy,2026,70.64,1.63,ITA,3,8
+Latvia,2022,75.92,0.0,LVA,6,3
+Latvia,2023,76.85,0.93,LVA,6,3
+Latvia,2024,78.39,2.47,LVA,6,3
+Latvia,2025,80.38,4.46,LVA,6,3
+Latvia,2026,81.07,5.15,LVA,6,3
+Lithuania,2022,74.91,0.0,LTU,6,4
+Lithuania,2023,78.2,3.29,LTU,6,4
+Lithuania,2024,78.62,3.71,LTU,6,4
+Lithuania,2025,80.41,5.5,LTU,6,4
+Lithuania,2026,82.45,7.54,LTU,6,4
+Luxembourg,2022,69.16,0.0,LUX,3,6
+Luxembourg,2023,67.75,-1.41,LUX,3,6
+Luxembourg,2024,64.96,-4.2,LUX,3,6
+Luxembourg,2025,65.99,-3.17,LUX,3,6
+Luxembourg,2026,67.66,-1.5,LUX,3,6
+Malta,2022,72.26,0.0,MLT,3,10
+Malta,2023,64.73,-7.53,MLT,3,10
+Malta,2024,69.46,-2.8,MLT,3,10
+Malta,2025,72.44,0.18,MLT,3,10
+Malta,2026,73.16,0.9,MLT,3,10
+Moldova,2022,62.75,0.0,MDA,6,5
+Moldova,2023,62.59,-0.16,MDA,6,5
+Moldova,2024,47.71,-15.04,MDA,6,5
+Moldova,2025,76.89,14.14,MDA,6,5
+Moldova,2026,81.76,19.01,MDA,6,5
+Montenegro,2022,70.54,0.0,MNE,5,8
+Montenegro,2023,67.94,-2.6,MNE,5,8
+Montenegro,2024,70.89,0.35,MNE,5,8
+Montenegro,2025,72.93,2.39,MNE,5,8
+Montenegro,2026,74.38,3.84,MNE,5,8
+Netherlands,2022,62.64,0.0,NLD,3,4
+Netherlands,2023,64.65,2.01,NLD,3,4
+Netherlands,2024,66.81,4.17,NLD,3,4
+Netherlands,2025,71.53,8.89,NLD,3,4
+Netherlands,2026,73.05,10.41,NLD,3,4
+North Macedonia,2022,72.7,0.0,MKD,6,8
+North Macedonia,2023,70.47,-2.23,MKD,6,8
+North Macedonia,2024,74.62,1.92,MKD,6,8
+North Macedonia,2025,76.09,3.39,MKD,6,8
+North Macedonia,2026,79.07,6.37,MKD,6,8
+Norway,2022,80.0,0.0,NOR,4,1
+Norway,2023,80.92,0.92,NOR,4,1
+Norway,2024,81.31,1.31,NOR,4,1
+Norway,2025,84.34,4.34,NOR,4,1
+Norway,2026,85.76,5.76,NOR,4,1
+Poland,2022,68.52,0.0,POL,5,4
+Poland,2023,74.84,6.32,POL,5,4
+Poland,2024,73.36,4.84,POL,5,4
+Poland,2025,76.32,7.8,POL,5,4
+Poland,2026,77.38,8.86,POL,5,4
+Portugal,2022,64.85,0.0,PRT,1,7
+Portugal,2023,61.0,-3.85,PRT,1,7
+Portugal,2024,63.47,-1.38,PRT,1,7
+Portugal,2025,61.75,-3.1,PRT,1,7
+Portugal,2026,66.49,1.64,PRT,1,7
+Romania,2022,66.94,0.0,ROU,6,6
+Romania,2023,68.88,1.94,ROU,6,6
+Romania,2024,67.96,1.02,ROU,6,6
+Romania,2025,74.1,7.16,ROU,6,6
+Romania,2026,74.52,7.58,ROU,6,6
+Serbia,2022,66.63,0.0,SRB,6,7
+Serbia,2023,58.95,-7.68,SRB,6,7
+Serbia,2024,62.7,-3.93,SRB,6,7
+Serbia,2025,70.86,4.23,SRB,6,7
+Serbia,2026,73.02,6.39,SRB,6,7
+Slovakia,2022,75.86,0.0,SVK,5,5
+Slovakia,2023,77.09,1.23,SVK,5,5
+Slovakia,2024,76.25,0.39,SVK,5,5
+Slovakia,2025,78.78,2.92,SVK,5,5
+Slovakia,2026,81.41,5.55,SVK,5,5
+Slovenia,2022,69.57,0.0,SVN,4,7
+Slovenia,2023,66.73,-2.84,SVN,4,7
+Slovenia,2024,69.11,-0.46,SVN,4,7
+Slovenia,2025,75.96,6.39,SVN,4,7
+Slovenia,2026,78.05,8.48,SVN,4,7
+Spain,2022,73.52,0.0,ESP,2,7
+Spain,2023,70.06,-3.46,ESP,2,7
+Spain,2024,67.72,-5.8,ESP,2,7
+Spain,2025,70.04,-3.48,ESP,2,7
+Spain,2026,69.59,-3.93,ESP,2,7
+Sweden,2022,78.14,0.0,SWE,5,1
+Sweden,2023,76.81,-1.33,SWE,5,1
+Sweden,2024,80.67,2.53,SWE,5,1
+Sweden,2025,84.3,6.16,SWE,5,1
+Sweden,2026,83.97,5.83,SWE,5,1
+Switzerland,2022,68.8,0.0,CHE,3,7
+Switzerland,2023,61.39,-7.41,CHE,3,7
+Switzerland,2024,62.58,-6.22,CHE,3,7
+Switzerland,2025,64.18,-4.62,CHE,3,7
+Switzerland,2026,65.16,-3.64,CHE,3,7
+Türkiye,2022,70.31,0.0,TUR,6,9
+Türkiye,2023,64.33,-5.98,TUR,6,9
+Türkiye,2024,71.39,1.08,TUR,6,9
+Türkiye,2025,75.69,5.38,TUR,6,9
+Türkiye,2026,78.04,7.73,TUR,6,9
+United Kingdom,2022,64.7,0.0,GBR,2,3
+United Kingdom,2023,65.69,0.99,GBR,2,3
+United Kingdom,2024,68.94,4.24,GBR,2,3
+United Kingdom,2025,74.23,9.53,GBR,2,3
+United Kingdom,2026,74.3,9.6,GBR,2,3
