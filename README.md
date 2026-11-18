@@ -1,7 +1,7 @@
 # Info-Viz-Assignment-2
 ## European Flight Punctuality Visualisation
 
-Project Overview
+### Project Overview
 
 This project is an information visualisation exploring how departure punctuality has changed across European countries from 2022 to 2026.
 
@@ -9,7 +9,7 @@ The visualisation uses a European tile grid map, where each country is represent
 
 This project was developed as part of a university Information Visualisation assignment for non-commercial educational purposes.
 
-Data Source and Attribution
+### Data Source and Attribution
 
 Original data source: EUROCONTROL — Aviation Intelligence Portal
 
