@@ -1,5 +1,5 @@
 # Info-Viz-Assignment-2
-##European Flight Punctuality Visualisation
+## European Flight Punctuality Visualisation
 
 Project Overview
 
